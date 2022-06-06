@@ -1,0 +1,7 @@
+<view class="container">
+  <l-input class="username" label="用户名"  placeholder="请输入用户名"  />
+  <l-input class="password" label="密码"  type="password" placeholder="请输入密码"  />
+
+
+  <button open-type="getUserInfo"></button>
+</view>
